@@ -1,8 +1,23 @@
 <!--  Profile Header  -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hey there, I'm <span style="color:#00C4FF;">Atikela Venu Yadav</span>
+  <span style="
+    background: linear-gradient(90deg, #00eaff, #ff00c8, #00ff9d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 48px;
+    font-weight: 800;
+    animation: glow 2s ease-in-out infinite alternate;">
+    Hey there, I'm Atikela Venu Yadav
+  </span>
 </h1>
+
+<style>
+@keyframes glow {
+  from { text-shadow: 0 0 10px #00eaff; }
+  to { text-shadow: 0 0 20px #ff00c8; }
+}
+</style>
+
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Data+Enthusiast+%7C+Aspiring+Data+Scientist;Python+%7C+Java+%7C+SQL;Data+Analysis+%7C+EDA+%7C+Visualization;Always+learning%2C+building%2C+improving">
