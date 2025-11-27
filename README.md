@@ -30,13 +30,59 @@
 
 ---
 
+## 💡 Skills & Technologies
+
+<p align="center">
+  <!-- Programming Logos -->
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
+  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="SQL" />
+</p>
+<p align="center" style="font-weight: bold;">Programming</p>
+
+<p align="center">
+  <!-- Machine Learning Logos -->
+  <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow" />
+  <img alt="Scikit-learn" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100" height="40" title="Scikit-learn" />
+  <img alt="Recommendation Systems" src="https://img.icons8.com/color/48/000000/recommendation.png" width="40" height="40" title="Recommendation Systems" />
+</p>
+<p align="center" style="font-weight: bold;">Machine Learning</p>
+
+<p align="center">
+  <!-- Data Analysis & Visualization Logos -->
+  <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas" />
+  <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy" />
+  <img alt="Matplotlib" src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" title="Matplotlib" />
+  <img alt="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="40" title="Seaborn" />
+  <img alt="Power BI" src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" width="40" height="40" title="Power BI" />
+</p>
+<p align="center" style="font-weight: bold;">Data Analysis & Visualization</p>
+
+<p align="center">
+  <!-- Cloud Platforms Logos -->
+  <img alt="Oracle Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle Cloud" />
+  <img alt="Microsoft Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" title="Microsoft Azure" />
+  <img alt="AWS Lambda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" title="AWS Lambda" />
+</p>
+<p align="center" style="font-weight: bold;">Cloud Platforms</p>
+
+<p align="center">
+  <!-- Dev Tools Logos -->
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
+  <img alt="GitHub Actions" src="https://docs.github.com/assets/images/icons/feature-icons/github-actions.svg" width="40" height="40" title="GitHub Actions" />
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />
+</p>
+<p align="center" style="font-weight: bold;">Dev Tools</p>
+
+---
+
 ## 💼 Featured Projects
 
 ### 🛒 Personalized E-Commerce Recommendation System
 <p float="left" align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Lambda" />
-  <img src="https://img.shields.io/badge/Power_BI-f2c811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
+  <img alt="AWS Lambda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30" />
+  <img alt="Power BI" src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" width="30" height="30" />
 </p>
 - 🔍 Developed a KNN-based recommendation engine for personalized product suggestions
 - 🚀 Deployed with AWS Lambda & API Gateway for scalability
@@ -44,9 +90,9 @@
 
 ### 💰 Loan Data Exploratory Data Analysis (EDA)
 <p float="left" align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-F3766E?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-ee6c4d?style=for-the-badge" alt="Seaborn" />
+  <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30" />
+  <img alt="Matplotlib" src="https://matplotlib.org/_static/images/logo2.svg" width="30" height="30" />
+  <img alt="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" height="20" />
 </p>
 - 📈 Conducted detailed EDA to identify key financial trends and risk factors
 - 🎨 Data cleaning and compelling visualizations using Pandas, Matplotlib, and Seaborn
@@ -56,17 +102,17 @@
 ## 🎓 Certifications
 
 <p align="center">
-  <a href="https://www.oracle.com/certification/" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle_OCI-Certified-e94057?style=flat&logo=oracle&logoColor=white&label=Oracle%20Cloud%20Infrastructure" alt="Oracle OCI Certified" />
+  <a href="https://www.oracle.com/certification/" target="_blank" title="Oracle Cloud Infrastructure Certified">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle OCI"/>
   </a>
-  <a href="https://www.infosys.com" target="_blank">
-    <img src="https://img.shields.io/badge/Infosys-Finite_Automata-purple?style=flat&logo=infosys&logoColor=white" alt="Infosys" />
+  <a href="https://www.infosys.com" target="_blank" title="Infosys Certified">
+    <img src="https://www.infosys.com/content/dam/infosys-web/en/global-logo.svg" width="120" alt="Infosys"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Azure-Data_Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure Data Fundamentals" />
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals" target="_blank" title="Azure Data Fundamentals">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
   </a>
-  <a href="https://www.iamneo.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/Java_Programming-orange?style=flat&logo=java&logoColor=white" alt="Java" />
+  <a href="https://www.iamneo.ai/" target="_blank" title="Java Programming">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   </a>
 </p>
 
@@ -76,7 +122,26 @@
 
 <p align="center">
   <a href="https://github.com/venuyadav17" target="_blank" title="GitHub">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/venu-yadav/" target="_blank" title="LinkedIn">
-    <img alt="LinkedIn" src="https
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>
+</p>
+
+<style>
+  @keyframes glow {
+    0% {
+      text-shadow: 0 0 10px #1ac9ff, 0 0 20px #3adcff, 0 0 30px #54d7ff;
+      color: #1ac9ff;
+    }
+    50% {
+      text-shadow: 0 0 15px #44f0ff, 0 0 35px #56f9ff, 0 0 50px #6ffaff;
+      color: #3efaff;
+    }
+    100% {
+      text-shadow: 0 0 10px #1ac9ff, 0 0 20px #3adcff, 0 0 30px #54d7ff;
+      color: #1ac9ff;
+    }
+  }
+</style>
