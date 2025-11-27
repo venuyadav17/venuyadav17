@@ -6,18 +6,13 @@
     👋 Hi, I'm <span style="color:#fb5607;">Atikela Venu Yadav</span>
   </h1>
 
-  <!-- Typing Animation -->
-  <p align="center" style="margin-top: 0.5rem;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=3a86ff&center=true&width=600&lines=B.Tech+CSE+Student;Data+Analyst+%26+ML+Enthusiast;Cloud+%26+Generative+AI+Explorer" alt="Typing Animation" />
-  </p>
+  
 
-  <!-- Coding Animation -->
-  <img src="https://media.giphy.com/media/3o7TKDmyLZG3WgDL1q/giphy.gif" alt="Coding Animation" width="220" style="border-radius: 10px; margin-top: 1rem;" />
-</p>
+  
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <div style="background:#e0f7fa; border-radius: 10px; padding: 1rem; max-width: 720px; margin: 1rem auto; font-size:16px; color:#064663; text-align:center; line-height:1.5;">
   🎓 B.Tech Computer Science & Engineering at <a href="https://www.lpu.in" target="_blank" style="color:#0288d1; font-weight: 600;">Lovely Professional University</a><br>
@@ -94,34 +89,3 @@
   </a>
 </p>
 
-<style>
-  @keyframes glow {
-    0% {
-      color: #3a86ff;
-      text-shadow: 0 0 8px #3a86ff, 0 0 20px #74b9ff, 0 0 30px #a3d2ff;
-    }
-    50% {
-      color: #74b9ff;
-      text-shadow: 0 0 15px #74b9ff, 0 0 35px #a3d2ff, 0 0 50px #caf0ff;
-    }
-    100% {
-      color: #3a86ff;
-      text-shadow: 0 0 10px #3a86ff, 0 0 20px #74b9ff, 0 0 30px #a3d2ff;
-    }
-  }
-  table {
-    border-collapse: separate;
-    border-spacing: 2rem 1.5rem;
-  }
-  table td {
-    background: #def4ff;
-    border-radius: 12px;
-    padding: 1rem 0;
-    vertical-align: middle;
-    font-weight: 600;
-    color: #034078;
-  }
-  table td p {
-    margin-top: 0.5rem;
-  }
-</style>
