@@ -6,10 +6,7 @@
     👋 Hi, I'm Atikela Venu Yadav
   </h1>
 
-  <!-- Typing Animation -->
-  <p align="center" style="margin-top: 0.5rem;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1ac9ff&center=true&width=600&lines=B.Tech+CSE+Student;Data+Analyst+%26+ML+Enthusiast;Cloud+%26+Generative+AI+Explorer" alt="Typing SVG" />
-  </p>
+ 
 </p>
 
 <p align="center" style="margin-top: 1rem;">
@@ -19,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## Get to know Me here :)
 
 <p align="center" style="font-size:16px; color:#333; max-width: 700px; margin: auto;">
   🎓 B.Tech Computer Science & Engineering at <a href="https://www.lpu.in" target="_blank" style="color:#1ac9ff; font-weight: 600;">Lovely Professional University</a><br>
