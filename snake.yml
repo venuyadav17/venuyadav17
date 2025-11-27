@@ -1,0 +1,17 @@
+name: generate animation
+on:
+  schedule:
+    - cron: '0 2 * * *' # runs once daily at 2 AM UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run snake animation generator
+        uses: Platane/snk@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
