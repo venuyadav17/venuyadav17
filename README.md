@@ -9,10 +9,7 @@
  
 </p>
 
-<p align="center" style="margin-top: 1rem;">
-  <!-- Profile GIF Animation -->
-  <img src="https://media.giphy.com/media/3o7TKDmyLZG3WgDL1q/giphy.gif" alt="Coding Animation" width="200" />
-</p>
+
 
 ---
 
