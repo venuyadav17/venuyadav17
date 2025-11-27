@@ -125,19 +125,4 @@
   </a>
 </p>
 
-<style>
-  @keyframes glow {
-    0% {
-      text-shadow: 0 0 10px #1ac9ff, 0 0 20px #3adcff, 0 0 30px #54d7ff;
-      color: #1ac9ff;
-    }
-    50% {
-      text-shadow: 0 0 15px #44f0ff, 0 0 35px #56f9ff, 0 0 50px #6ffaff;
-      color: #3efaff;
-    }
-    100% {
-      text-shadow: 0 0 10px #1ac9ff, 0 0 20px #3adcff, 0 0 30px #54d7ff;
-      color: #1ac9ff;
-    }
-  }
-</style>
+
