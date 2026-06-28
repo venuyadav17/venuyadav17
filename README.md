@@ -85,15 +85,68 @@ Worked with a data analytics team evaluating enrollment and marketing performanc
 
 ## Featured Projects
 
-**🧠 Azure Document Classification & RAG System** · *Oct 2025 – Dec 2025*
-Serverless Azure pipeline for automated document ingestion and classification, with a RAG architecture built on Gemini embeddings and Azure AI Search. Workflow orchestration via Azure Durable Functions and Cosmos DB, with a document chat and dashboard interface for intelligent content querying.
-`Azure Blob Storage` `Durable Functions` `Document Intelligence` `Azure AI Search` `Cosmos DB` `Gemini Embeddings` `React` `REST APIs`
-[![Repo](https://img.shields.io/badge/Repo-2D5DA1?style=flat-square&logo=github&logoColor=white)](#)
+<table>
+<tr>
+<td width="100%">
 
-**🚆 Train Delay Prediction Model** · *Mar 2025 – Apr 2025*
-XGBoost model achieving 82% accuracy on 250k+ railway records. Handled feature engineering, class imbalance via weighted training, and feature selection for better generalization. Deployed as a real-time inference app via Streamlit.
-`Python` `Pandas` `scikit-learn` `XGBoost` `joblib` `Streamlit`
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2D5DA1?style=flat-square&logo=streamlit&logoColor=white)](#)
+### 🧠 Azure Document Classification & RAG System
+*Oct 2025 – Dec 2025 · Team project*
+
+Serverless Azure pipeline for automated document ingestion and classification, paired with a RAG architecture for intelligent content querying.
+
+[![Repo](https://img.shields.io/badge/View_Repo-2D5DA1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityapichikala/azuredocuementclassification/)
+
+<details>
+<summary><b>▸ Walk through how it works</b></summary>
+<br>
+
+| Step | What happens | Built with |
+|---|---|---|
+| **1. Ingest** | Documents land in Blob Storage and trigger the pipeline automatically | `Azure Blob Storage` |
+| **2. Classify** | Azure Document Intelligence extracts structure and classifies document type | `Document Intelligence` |
+| **3. Orchestrate** | Long-running, stateful workflow coordinates each processing step | `Azure Durable Functions` |
+| **4. Embed & Index** | Content is embedded with Gemini and indexed for semantic search | `Gemini Embeddings` · `Azure AI Search` |
+| **5. Store** | Metadata and processing state persisted for fast retrieval | `Azure Cosmos DB` |
+| **6. Query** | A chat + dashboard interface lets users ask questions over the documents | `React` · `REST APIs` |
+
+**Why it's interesting:** the whole flow — upload → classify → embed → ask questions in plain English — runs without managing a single server.
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🚆 Train Delay Prediction Model
+*Mar 2025 – Apr 2025*
+
+XGBoost model predicting railway delays with **82% accuracy** on 250k+ real records — deployed as a live app.
+
+[![Live Demo](https://img.shields.io/badge/Try_It_Live-2D5DA1?style=for-the-badge&logo=streamlit&logoColor=white)](https://delay-prediction-8q9gkkdjhhkgeadiridajx.streamlit.app/)
+
+<details>
+<summary><b>▸ Walk through how it works</b></summary>
+<br>
+
+| Step | What happens | Built with |
+|---|---|---|
+| **1. Clean** | 250k+ railway records cleaned and feature-engineered | `Pandas` |
+| **2. Balance** | Class imbalance handled with weighted training so rare delays aren't ignored | `scikit-learn` |
+| **3. Select** | Feature selection narrows inputs to what actually predicts delay | `scikit-learn` |
+| **4. Train** | Gradient-boosted model trained and evaluated on held-out data | `XGBoost` |
+| **5. Serve** | Model packaged and served for real-time inference | `joblib` · `Streamlit` |
+
+**Why it's interesting:** the live demo isn't a notebook — it's the actual trained model responding to real inputs in your browser. Try entering a route and see the predicted delay yourself.
+
+</details>
+
+</td>
+</tr>
+</table>
 
 <br>
 
